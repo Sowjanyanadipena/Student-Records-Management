@@ -1,0 +1,6 @@
+# Student Records Management System
+This project is a simple Python-based CRUD application to manage student records using SQLite, developed to demonstrate SQL queries, Python programming, and basic analytics for placement readiness. The system allows adding, viewing, updating, and deleting student records with fields such as name, roll number, department, and marks. It also integrates Pandas and Matplotlib to provide visual insights like marks distribution by student. The project is ideal for showcasing core programming skills, database interaction, and data visualization in a compact, easy-to-run form. It runs entirely in Google Colab or locally without external database setup, making it accessible for demonstration purposes.  
+**Features:** Create new student records with unique roll numbers, Read and view all stored records, Update marks of existing students, Delete student records, Generate bar chart for marks by student.  
+**Technologies Used:** Python, SQLite, Pandas, Matplotlib.  
+**Usage:** Clone or download the repository, Run the Python script or notebook in Google Colab or locally, Follow on-screen prompts or function calls to perform CRUD operations, View the generated plots for analytics.  
+**Future Enhancements:** Convert into a Flask web application, Add authentication for data security, Deploy on a cloud platform for online access.
